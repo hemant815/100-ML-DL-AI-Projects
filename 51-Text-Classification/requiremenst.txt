@@ -1,0 +1,4 @@
+pandas
+sk-learn
+nltk
+re
